@@ -9,6 +9,9 @@ function login() {
     else 
     { alert("Wrong Password or User Name, Try again please!") }
 }
+function soon() {
+    alert('this page will ba active as soon as possible')
+}
 //_____________________________________________________________
 //_____________________________________________________________
 //_____________________________________________________________
